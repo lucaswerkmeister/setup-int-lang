@@ -1,0 +1,18 @@
+{
+	"name": "setup-int-lang",
+	"version": "1.0.0",
+	"description": "Creating MediaWiki:Lang pages for all supported language codes en masse.",
+	"main": "index.js",
+	"type": "module",
+	"homepage": "https://github.com/lucaswerkmeister/setup-int-lang#readme",
+	"bugs": "https://github.com/lucaswerkmeister/setup-int-lang/issues",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/lucaswerkmeister/setup-int-lang.git"
+	},
+	"author": "Lucas Werkmeister",
+	"license": "ISC",
+	"dependencies": {
+		"m3api": "^0.8.0"
+	}
+}
